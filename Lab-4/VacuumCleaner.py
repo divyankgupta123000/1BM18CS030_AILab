@@ -33,10 +33,12 @@ main()
 
 '''
 Output
+
 Enter no. of rows
 3
 Enter no.of columns
 4
+
 1 0 0 1
 0 0 0 1
 0 1 0 0
